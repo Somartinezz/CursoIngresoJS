@@ -8,7 +8,7 @@ si tiene 31 días.
 function mostrar()
 {
 	//tomo el mes
-	var mesDelAño
+	var mesDelAño;
 	mesDelAño =document.getElementById('txtIdMes').value;
 	
 	switch (mesDelAño)
